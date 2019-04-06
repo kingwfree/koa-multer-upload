@@ -1,0 +1,25 @@
+{
+  "name": "koa-body-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingwfree/koa-body-upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingwfree/koa-body-upload/issues"
+  },
+  "homepage": "https://github.com/kingwfree/koa-body-upload#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0"
+  }
+}
