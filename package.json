@@ -20,6 +20,7 @@
   "dependencies": {
     "koa": "^2.7.0",
     "koa-multer": "^1.0.2",
-    "koa-router": "^7.4.0"
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.6"
   }
 }
